@@ -159,3 +159,9 @@ config.json
 biomeidfixer.temp
 config/PregenConfig.toml
 NewWorldBiomeIdFixer.json
+config/waila/waila.json
+config/waila/waila_plugins.json
+config/PregenConfig.toml
+config/theoneprobe-common.toml
+config/theoneprobe-client.toml
+automation/ModListCreator-1.2.1.jar
